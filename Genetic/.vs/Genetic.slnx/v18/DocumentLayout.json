@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B81061-439F-4E44-A0C7-C1176F0D2785}|UserData\\UserData.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\userdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B81061-439F-4E44-A0C7-C1176F0D2785}|UserData\\UserData.csproj|solutionrelative:userdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|FirstApp\\FirstApp.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Program.cs",
+              "RelativeToolTip": "Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:02:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\UserData\\UserData.cs",
+              "RelativeDocumentMoniker": "UserData\\UserData.cs",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\UserData\\UserData.cs",
+              "RelativeToolTip": "UserData\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:57:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\Program.cs",
+              "RelativeToolTip": "FirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:28:24.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
