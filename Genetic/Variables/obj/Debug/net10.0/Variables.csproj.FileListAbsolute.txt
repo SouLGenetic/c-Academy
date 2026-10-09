@@ -1,0 +1,16 @@
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\bin\Debug\net10.0\Variables.exe
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\bin\Debug\net10.0\Variables.deps.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\bin\Debug\net10.0\Variables.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\bin\Debug\net10.0\Variables.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\refint\Variables.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\ref\Variables.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\Variables\obj\Debug\net10.0\Variables.csproj.Up2Date

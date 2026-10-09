@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51B81061-439F-4E44-A0C7-C1176F0D2785}|UserData\\UserData.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\userdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B81061-439F-4E44-A0C7-C1176F0D2785}|UserData\\UserData.csproj|solutionrelative:userdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|solutionrelative:variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|FirstApp\\FirstApp.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\variables\\variables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|solutionrelative:variables\\variables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1A42D7-31B6-0F35-5D36-27E6B9AD4C94}|FirstApp\\Greeting.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\firstapp\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1A42D7-31B6-0F35-5D36-27E6B9AD4C94}|FirstApp\\Greeting.csproj|solutionrelative:firstapp\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B81061-439F-4E44-A0C7-C1176F0D2785}|UserData\\UserData.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\userdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B81061-439F-4E44-A0C7-C1176F0D2785}|UserData\\UserData.csproj|solutionrelative:userdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variables",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.csproj",
+              "RelativeDocumentMoniker": "Variables\\Variables.csproj",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.csproj",
+              "RelativeToolTip": "Variables\\Variables.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-09T02:15:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.cs",
+              "RelativeDocumentMoniker": "Variables\\Variables.cs",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.cs",
+              "RelativeToolTip": "Variables\\Variables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:02:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserData.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\UserData\\UserData.cs",
               "RelativeDocumentMoniker": "UserData\\UserData.cs",
               "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\UserData\\UserData.cs",
               "RelativeToolTip": "UserData\\UserData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T04:57:07.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T04:57:07.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\Program.cs",
-              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
-              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\Program.cs",
-              "RelativeToolTip": "FirstApp\\Program.cs",
+              "DocumentIndex": 2,
+              "Title": "greeting.cs",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\greeting.cs",
+              "RelativeDocumentMoniker": "FirstApp\\greeting.cs",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\greeting.cs",
+              "RelativeToolTip": "FirstApp\\greeting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T04:28:24.956Z",
