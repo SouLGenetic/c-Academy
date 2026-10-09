@@ -1,0 +1,16 @@
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\bin\Debug\net10.0\tipCalculator.exe
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\bin\Debug\net10.0\tipCalculator.deps.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\bin\Debug\net10.0\tipCalculator.runtimeconfig.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\bin\Debug\net10.0\tipCalculator.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\bin\Debug\net10.0\tipCalculator.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.AssemblyInfoInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.AssemblyInfo.cs
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.sourcelink.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\refint\tipCalculator.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.genruntimeconfig.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\ref\tipCalculator.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalcu.AF2FB1F4.Up2Date

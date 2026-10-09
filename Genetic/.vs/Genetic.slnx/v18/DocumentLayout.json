@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95DC13D0-682A-4659-B795-4E03D238CB7E}|tipCalculator\\tipCalculator.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\tipcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DC13D0-682A-4659-B795-4E03D238CB7E}|tipCalculator\\tipCalculator.csproj|solutionrelative:tipcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\variables\\variables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{54C73558-1D95-4FC4-A336-F83FFECE28C2}|Variables\\Variables.csproj|solutionrelative:variables\\variables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\tipCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "tipCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\tipCalculator\\Program.cs",
+              "RelativeToolTip": "tipCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T09:00:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Variables",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.csproj",
               "RelativeDocumentMoniker": "Variables\\Variables.csproj",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Variables.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.cs",
               "RelativeDocumentMoniker": "Variables\\Variables.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserData.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\UserData\\UserData.cs",
               "RelativeDocumentMoniker": "UserData\\UserData.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "greeting.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\greeting.cs",
               "RelativeDocumentMoniker": "FirstApp\\greeting.cs",

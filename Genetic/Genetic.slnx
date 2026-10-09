@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="FirstApp/Greeting.csproj" />
+  <Project Path="tipCalculator/tipCalculator.csproj" Id="95dc13d0-682a-4659-b795-4e03d238cb7e" />
   <Project Path="UserData/UserData.csproj" Id="51b81061-439f-4e44-a0c7-c1176f0d2785" />
   <Project Path="Variables/Variables.csproj" Id="54c73558-1d95-4fc4-a336-f83ffece28c2" />
 </Solution>
