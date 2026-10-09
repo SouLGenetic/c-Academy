@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("convert-F-to-C")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2b698e6b6c7bea3d5cc9ab33ab82b77bb5ad0f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4cb3a2e9c71e823036d74fd925828942f9c6ec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("convert-F-to-C")]
 [assembly: System.Reflection.AssemblyTitleAttribute("convert-F-to-C")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

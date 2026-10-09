@@ -1,5 +1,8 @@
-﻿Console.WriteLine("Is your input C or F: ");
+﻿using System.Diagnostics.CodeAnalysis;
+
+Console.WriteLine("Is your input C or F: ");
 var input = Console.ReadLine();
+input = input.ToLower();
 
 if (input == "f")
 {
@@ -13,7 +16,7 @@ if (input == "f")
     // Display the result
     Console.WriteLine($"{tempF} in Celcius is: {tempC}");
 }
-else
+else if (input == "c")
 {
     // Store a Fahrenheit temperature
     Console.WriteLine("Input temp in C: ");
@@ -24,4 +27,8 @@ else
     decimal tempF = (tempC * 9 / 5) + 32;
     // Display the result
     Console.WriteLine($"{tempC} in Farenheit is: {tempF}");
+}
+else
+{
+    Console.WriteLine("PLEASE ENTER A VALID INPUT!: ");
 }
