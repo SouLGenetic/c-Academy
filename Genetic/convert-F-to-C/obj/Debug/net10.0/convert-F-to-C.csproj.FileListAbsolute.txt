@@ -1,0 +1,16 @@
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\bin\Debug\net10.0\convert-F-to-C.exe
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\bin\Debug\net10.0\convert-F-to-C.deps.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\bin\Debug\net10.0\convert-F-to-C.runtimeconfig.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\bin\Debug\net10.0\convert-F-to-C.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\bin\Debug\net10.0\convert-F-to-C.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.AssemblyInfoInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.AssemblyInfo.cs
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.csproj.CoreCompileInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.sourcelink.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\refint\convert-F-to-C.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-F-to-C.genruntimeconfig.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\ref\convert-F-to-C.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\convert-F-to-C\obj\Debug\net10.0\convert-.E72714CC.Up2Date
