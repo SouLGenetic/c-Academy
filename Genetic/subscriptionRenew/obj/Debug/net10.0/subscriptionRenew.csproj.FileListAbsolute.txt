@@ -1,0 +1,16 @@
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\bin\Debug\net10.0\subscriptionRenew.exe
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\bin\Debug\net10.0\subscriptionRenew.deps.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\bin\Debug\net10.0\subscriptionRenew.runtimeconfig.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\bin\Debug\net10.0\subscriptionRenew.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\bin\Debug\net10.0\subscriptionRenew.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.AssemblyInfoInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.AssemblyInfo.cs
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.csproj.CoreCompileInputs.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.sourcelink.json
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\refint\subscriptionRenew.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.pdb
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscriptionRenew.genruntimeconfig.cache
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\ref\subscriptionRenew.dll
+C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\subscriptionRenew\obj\Debug\net10.0\subscrip.EECA34A8.Up2Date

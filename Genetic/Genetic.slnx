@@ -2,6 +2,7 @@
   <Project Path="convert-F-to-C/convert-F-to-C.csproj" Id="e0cf5b42-2076-4b21-897a-13ffe254a02b" />
   <Project Path="diceGame/diceGame.csproj" Id="c9993ab1-3bfa-461d-bce2-c7245f51f0b0" />
   <Project Path="FirstApp/Greeting.csproj" />
+  <Project Path="subscriptionRenew/subscriptionRenew.csproj" Id="624c0986-e5ce-455c-a1f3-8fc199cff2c2" />
   <Project Path="tipCalculator/tipCalculator.csproj" Id="95dc13d0-682a-4659-b795-4e03d238cb7e" />
   <Project Path="UserData/UserData.csproj" Id="51b81061-439f-4e44-a0c7-c1176f0d2785" />
   <Project Path="Variables/Variables.csproj" Id="54c73558-1d95-4fc4-a336-f83ffece28c2" />
