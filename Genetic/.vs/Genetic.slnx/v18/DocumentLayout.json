@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9993AB1-3BFA-461D-BCE2-C7245F51F0B0}|diceGame\\diceGame.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\dicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9993AB1-3BFA-461D-BCE2-C7245F51F0B0}|diceGame\\diceGame.csproj|solutionrelative:dicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0CF5B42-2076-4B21-897A-13FFE254A02B}|convert-F-to-C\\convert-F-to-C.csproj|c:\\users\\jacki\\git\\cacademy\\c-academy\\genetic\\convert-f-to-c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0CF5B42-2076-4B21-897A-13FFE254A02B}|convert-F-to-C\\convert-F-to-C.csproj|solutionrelative:convert-f-to-c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,18 +44,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\diceGame\\Program.cs",
+              "RelativeDocumentMoniker": "diceGame\\Program.cs",
+              "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\diceGame\\Program.cs",
+              "RelativeToolTip": "diceGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T09:59:42.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\convert-F-to-C\\Program.cs",
               "RelativeDocumentMoniker": "convert-F-to-C\\Program.cs",
               "ToolTip": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\convert-F-to-C\\Program.cs",
               "RelativeToolTip": "convert-F-to-C\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T09:24:28.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\tipCalculator\\Program.cs",
               "RelativeDocumentMoniker": "tipCalculator\\Program.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Variables",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.csproj",
               "RelativeDocumentMoniker": "Variables\\Variables.csproj",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Variables.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\Variables\\Variables.cs",
               "RelativeDocumentMoniker": "Variables\\Variables.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserData.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\UserData\\UserData.cs",
               "RelativeDocumentMoniker": "UserData\\UserData.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "greeting.cs",
               "DocumentMoniker": "C:\\Users\\jacki\\Git\\cAcademy\\c-Academy\\Genetic\\FirstApp\\greeting.cs",
               "RelativeDocumentMoniker": "FirstApp\\greeting.cs",
