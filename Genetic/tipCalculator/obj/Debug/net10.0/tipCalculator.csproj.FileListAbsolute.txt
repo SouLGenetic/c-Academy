@@ -13,4 +13,3 @@ C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\re
 C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.pdb
 C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalculator.genruntimeconfig.cache
 C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\ref\tipCalculator.dll
-C:\Users\jacki\Git\cAcademy\c-Academy\Genetic\tipCalculator\obj\Debug\net10.0\tipCalcu.AF2FB1F4.Up2Date
